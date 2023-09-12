@@ -12,10 +12,10 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Awesome Filter is a open source project. 
-- Source - https://github.com/Tamilan_BotsZ/AwesomeFilter
+- Source - @All_historical_movies
 
 <b>DEVS:</b>
-- <a href=https://t.me/Tamilan_BotsZ>Sharath</a>"""
+- <a href=https://t.me/Leo_memlon>Leo</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
@@ -40,7 +40,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/TechMagazineYT)</code>
+<code>[Button Text](buttonurl:https://t.me/Historical_Full_Movies)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
